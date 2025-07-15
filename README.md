@@ -35,6 +35,6 @@ A full-stack leaderboard application that lets users earn random points and rank
 
  ```bash
 git clone  https://github.com/rituranjankumar/LeaderBoardApp.git
-cd leaderboard-app
+cd LeaderBoardApp
 
 
